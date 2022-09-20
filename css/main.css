@@ -260,13 +260,13 @@ footer:after{
     font-weight: 700;
     margin-bottom: 15px;
 }
-.footer a{
+footer a{
     color: #ffffff;
     text-transform: uppercase;
     font-size: 12px;
     padding: 0 0 4px;
 }
-.footer a:hover{text-decoration: underline;}
+footer a:hover{text-decoration: underline;}
 .social ul li{
     display: inline-block;
 }
