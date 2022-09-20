@@ -110,7 +110,7 @@ section {display: flex;}
     text-transform: uppercase;
 }
 .hero h1{
-    position: ralative; left: -30px;
+    position: relative; left: -30px;
 }
 .hero h2{
     color: #faa541;
